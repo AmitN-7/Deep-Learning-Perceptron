@@ -1,2 +1,2 @@
-# Deep-Learning--Perceptron-
+# Deep-Learning-Perceptron
 Intuition &amp; Algorithm
